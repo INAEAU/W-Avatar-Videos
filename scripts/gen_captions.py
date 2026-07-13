@@ -11,7 +11,7 @@ OUT_PATH = "src/data/captions.json"
 
 # Short on-screen labels for each paragraph "beat" of the script.
 LABELS = [
-    "Meet Wally!",
+    "Meet Willy!",
     "What's an INCIDENT?",
     "What's a REQUEST?",
     "The easy rule",

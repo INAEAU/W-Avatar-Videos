@@ -1,4 +1,4 @@
-Hi there! I'm Wally, and today I'll help you understand something that trips up a lot of people: the difference between an Incident and a Request.
+Hi there! I'm Willy, and today I'll help you understand something that trips up a lot of people: the difference between an Incident and a Request.
 
 Let's start with Incidents. An incident is something unplanned, a hiccup, a break, an uh-oh moment. Maybe your laptop crashed, the Wi-Fi died, or an app went completely offline. The service was working fine, and now it's not. The goal with an incident is simple: fix it fast, and get things back to normal as quickly as possible.
 
@@ -10,4 +10,4 @@ They're handled differently too. Incidents get triaged by urgency and impact, a 
 
 Teams love metrics for both. Incidents are measured by how fast they're resolved, that's your restore time. Requests are measured by how efficiently they're fulfilled, think turnaround time on that new laptop.
 
-So next time something breaks, call it an incident. Next time you simply need something, that's a request. Now you know the difference, nice work! I'm Wally, see you next time!
+So next time something breaks, call it an incident. Next time you simply need something, that's a request. Now you know the difference, nice work! I'm Willy, see you next time!
