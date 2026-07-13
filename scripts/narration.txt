@@ -1,0 +1,13 @@
+Hi there! I'm Wally, and today I'll help you understand something that trips up a lot of people: the difference between an Incident and a Request.
+
+Let's start with Incidents. An incident is something unplanned, a hiccup, a break, an uh-oh moment. Maybe your laptop crashed, the Wi-Fi died, or an app went completely offline. The service was working fine, and now it's not. The goal with an incident is simple: fix it fast, and get things back to normal as quickly as possible.
+
+Now, Requests are a different story. A request is something you ask for on purpose, nothing is broken! Maybe you need a new laptop, access to a shared folder, or a fresh software license. Requests are planned asks, usually picked from a catalog of things your service desk already knows how to deliver.
+
+Here's an easy way to remember it: if something stops working, that's an incident. If you want something new, that's a request.
+
+They're handled differently too. Incidents get triaged by urgency and impact, a total outage jumps the line ahead of one flickering monitor. Requests usually follow a standard, predictable process, since there's already an agreed way to fulfill them.
+
+Teams love metrics for both. Incidents are measured by how fast they're resolved, that's your restore time. Requests are measured by how efficiently they're fulfilled, think turnaround time on that new laptop.
+
+So next time something breaks, call it an incident. Next time you simply need something, that's a request. Now you know the difference, nice work! I'm Wally, see you next time!

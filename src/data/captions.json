@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Meet Wally!",
+    "startFrame": 0,
+    "endFrame": 363
+  },
+  {
+    "text": "What's an INCIDENT?",
+    "startFrame": 363,
+    "endFrame": 1172
+  },
+  {
+    "text": "What's a REQUEST?",
+    "startFrame": 1172,
+    "endFrame": 1911
+  },
+  {
+    "text": "The easy rule",
+    "startFrame": 1911,
+    "endFrame": 2218
+  },
+  {
+    "text": "How they're handled",
+    "startFrame": 2218,
+    "endFrame": 2748
+  },
+  {
+    "text": "How they're measured",
+    "startFrame": 2748,
+    "endFrame": 3195
+  },
+  {
+    "text": "You've got it!",
+    "startFrame": 3195,
+    "endFrame": 3627
+  }
+]
