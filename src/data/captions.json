@@ -2,36 +2,36 @@
   {
     "text": "Meet Willy!",
     "startFrame": 0,
-    "endFrame": 363
+    "endFrame": 345
   },
   {
     "text": "What's an INCIDENT?",
-    "startFrame": 363,
-    "endFrame": 1171
+    "startFrame": 345,
+    "endFrame": 1114
   },
   {
     "text": "What's a REQUEST?",
-    "startFrame": 1171,
-    "endFrame": 1910
+    "startFrame": 1114,
+    "endFrame": 1817
   },
   {
     "text": "The easy rule",
-    "startFrame": 1910,
-    "endFrame": 2217
+    "startFrame": 1817,
+    "endFrame": 2109
   },
   {
     "text": "How they're handled",
-    "startFrame": 2217,
-    "endFrame": 2747
+    "startFrame": 2109,
+    "endFrame": 2613
   },
   {
     "text": "How they're measured",
-    "startFrame": 2747,
-    "endFrame": 3193
+    "startFrame": 2613,
+    "endFrame": 3038
   },
   {
     "text": "You've got it!",
-    "startFrame": 3193,
-    "endFrame": 3625
+    "startFrame": 3038,
+    "endFrame": 3449
   }
 ]

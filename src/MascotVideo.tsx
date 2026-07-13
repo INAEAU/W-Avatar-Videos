@@ -49,7 +49,7 @@ export const MascotVideo: React.FC<{leadInFrames: number}> = ({leadInFrames}) =>
   return (
     <AbsoluteFill
       style={{
-        background: 'linear-gradient(160deg, #FFF3B0 0%, #FFD6E8 45%, #C7F0FF 100%)',
+        background: 'linear-gradient(160deg, #FFF8EC 0%, #EAF6FF 100%)',
         opacity: outroFade,
       }}
     >
@@ -98,12 +98,12 @@ export const MascotVideo: React.FC<{leadInFrames: number}> = ({leadInFrames}) =>
             fontFamily: 'Arial, Helvetica, sans-serif',
             fontWeight: 900,
             fontSize: 40,
-            color: '#073B4C',
+            color: '#10163A',
             letterSpacing: 0.5,
             textShadow: '0 2px 0 rgba(255,255,255,0.6)',
           }}
         >
-          Incidents <span style={{color: '#EF476F'}}>vs.</span> Requests
+          Incidents <span style={{color: '#E63950'}}>vs.</span> Requests
         </div>
       </AbsoluteFill>
 
@@ -131,12 +131,12 @@ export const MascotVideo: React.FC<{leadInFrames: number}> = ({leadInFrames}) =>
       {captions.map((c, i) => {
         const start = c.startFrame + leadInFrames;
         const end = c.endFrame + leadInFrames;
-        if (frame < start - 5 || frame > end + 10) return null;
-        const fadeIn = interpolate(frame, [start - 5, start + 10], [0, 1], {
+        if (frame < start || frame > end) return null;
+        const fadeIn = interpolate(frame, [start, start + 10], [0, 1], {
           extrapolateLeft: 'clamp',
           extrapolateRight: 'clamp',
         });
-        const fadeOut = interpolate(frame, [end - 12, end + 10], [1, 0], {
+        const fadeOut = interpolate(frame, [end - 10, end], [1, 0], {
           extrapolateLeft: 'clamp',
           extrapolateRight: 'clamp',
         });
@@ -158,7 +158,7 @@ export const MascotVideo: React.FC<{leadInFrames: number}> = ({leadInFrames}) =>
           >
             <div
               style={{
-                background: '#073B4C',
+                background: '#10163A',
                 color: '#FFFFFF',
                 fontFamily: 'Arial, Helvetica, sans-serif',
                 fontWeight: 700,
